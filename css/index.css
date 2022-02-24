@@ -1,0 +1,47 @@
+.all-nav{
+    display: flex;
+    /* flex-direction: column; */
+}
+.all-nav img{
+    height: 8rem;
+    border-radius: 4rem;
+}
+.navig ul li{
+    list-style-type: none;
+    margin: 2rem;
+}
+.navig ul{
+    display: flex;
+    
+}
+a{
+    text-decoration: none;
+}
+
+
+.intro{
+    background-color:cornflowerblue;
+    display: inline;
+    /* width: 0 auto; */
+}
+.icon{
+    float: right;
+}
+#yellow{
+    color: yellow;
+
+}
+/* Top, Right, Bottom, Left */
+.extra{
+    background-color: brown;
+    clear: both;
+    padding: 3rem 1rem;
+    margin: 1rem 5rem;
+    border: solid blue 4rem;
+}
+.items ul li{
+    list-style-type: none;
+}
+.items h3{
+    color: blue;
+}
